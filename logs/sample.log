@@ -1,0 +1,74 @@
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - brute force attempt
+10.0.0.2 - HTTP - sql injection attempt
+10.0.0.2 - HTTP - sql injection attempt
+10.0.0.3 - FTP - login failed
+10.0.0.3 - FTP - exploit attempt
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - brute force attempt
+
+10.0.0.2 - HTTP - sql injection attempt
+10.0.0.2 - HTTP - exploit attempt
+
+10.0.0.3 - FTP - login failed
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - brute force attempt
+10.0.0.1 - SSH - login failed
+10.0.0.1 - SSH - login failed
+
+10.0.0.2 - HTTP - sql injection attempt
+10.0.0.2 - HTTP - sql injection attempt
+10.0.0.2 - HTTP - exploit attempt
+10.0.0.2 - HTTP - directory traversal attempt
+10.0.0.2 - HTTP - login failed
+
+10.0.0.3 - FTP - login failed
+10.0.0.3 - FTP - login failed
+10.0.0.3 - FTP - brute force attempt
+10.0.0.3 - FTP - login failed
+10.0.0.3 - FTP - exploit attempt
+
+10.0.0.4 - SSH - login failed
+10.0.0.4 - SSH - login failed
+10.0.0.4 - SSH - login failed
+10.0.0.4 - SSH - brute force attempt
+10.0.0.4 - SSH - brute force attempt
+
+10.0.0.5 - HTTP - login failed
+10.0.0.5 - HTTP - sql injection attempt
+10.0.0.5 - HTTP - sql injection attempt
+10.0.0.5 - HTTP - exploit attempt
+10.0.0.5 - HTTP - exploit attempt
+
+10.0.0.6 - FTP - login failed
+10.0.0.6 - FTP - login failed
+10.0.0.6 - FTP - login failed
+10.0.0.6 - FTP - login failed
+10.0.0.6 - FTP - brute force attempt
+
+10.0.0.7 - SSH - login failed
+10.0.0.7 - SSH - login failed
+10.0.0.7 - SSH - login failed
+10.0.0.7 - SSH - login failed
+10.0.0.7 - SSH - brute force attempt
+
+10.0.0.8 - HTTP - sql injection attempt
+10.0.0.8 - HTTP - sql injection attempt
+10.0.0.8 - HTTP - exploit attempt
+10.0.0.8 - HTTP - exploit attempt
+10.0.0.8 - HTTP - login failed
+
+10.0.0.9 - FTP - login failed
+10.0.0.9 - FTP - login failed
+10.0.0.9 - FTP - brute force attempt
+10.0.0.9 - FTP - exploit attempt
+10.0.0.9 - FTP - login failed
+
+10.0.0.10 - SSH - login failed
+10.0.0.10 - SSH - login failed
+10.0.0.10 - SSH - brute force attempt
+10.0.0.10 - SSH - brute force attempt
+10.0.0.10 - SSH - exploit attempt
